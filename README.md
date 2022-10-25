@@ -1,8 +1,8 @@
 # Halo semua!
 
 Perkenalkan nama saya **Anastasia Denisha**.\
-Saya merupakan mahasiswa Informatika pada [Universitas Multimedia Nusantara](https://www.umn.ac.id/).\
-Untuk mengetahui lebih lanjut bisa mengenai seluruh *experience* aku, bisa langsung ikuti akun [Linkedin](https://www.linkedin.com/in/anastasia-denisha) aku.
+Saya merupakan mahasiswa Informatika di [Universitas Multimedia Nusantara](https://www.umn.ac.id/).\
+Untuk mengetahui lebih lanjut mengenai seluruh *experience* aku, bisa langsung ikuti akun [Linkedin](https://www.linkedin.com/in/anastasia-denisha) aku.
 
 <p align="left">
 <a href="https://github.com/anasden26">
