@@ -1,8 +1,14 @@
-# Halo semua!
+# Hello Everyone!
 
+Welcome to my GitHub Page! My name is **Anastasia Denisha**.\
+I am a fresh graduate Informatics student from [Universitas Multimedia Nusantara](https://www.umn.ac.id).\
+If you want to know more about my experience and others, you can visit my [LinkedIn](https://www.linkedin.com/in/anastasia-denisha) page.
+
+<!---
 Perkenalkan nama saya **Anastasia Denisha**.\
 Saya merupakan mahasiswa Informatika di [Universitas Multimedia Nusantara](https://www.umn.ac.id/).\
 Untuk mengetahui lebih lanjut mengenai seluruh *experience* dan seluruh kegiatan saya, bisa langsung buka akun [LinkedIn](https://www.linkedin.com/in/anastasia-denisha) saya dan bisa langsung *connect*.
+-->
 
 <p align="left">
 <a href="https://github.com/anasden26">
