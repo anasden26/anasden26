@@ -1,7 +1,7 @@
 # Hello Everyone!
 
 Welcome to my GitHub Page! My name is **Anastasia Denisha**.\
-I am a fresh graduate Informatics student from [Universitas Multimedia Nusantara](https://www.umn.ac.id).\
+I am a Informatics alumnus from [Universitas Multimedia Nusantara](https://www.umn.ac.id).\
 If you want to know more about my experience and others, you can visit my [LinkedIn](https://www.linkedin.com/in/anastasia-denisha) page.
 
 <!---
